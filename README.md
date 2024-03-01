@@ -1,1 +1,1 @@
-👋 I’m a PhD student at the ENS PSL & Institut Pasteur working under the joint suspervision of Gabriel Peyré and Laura Cantini. My work focuses on the application of optimal transport to single-cell multiomics.
+👋 I’m a PhD student at the ENS PSL & Institut Pasteur working under the joint supervision of Gabriel Peyré and Laura Cantini. My work focuses on the application of optimal transport to single-cell multiomics.
